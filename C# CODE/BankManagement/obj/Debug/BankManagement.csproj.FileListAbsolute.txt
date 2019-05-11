@@ -1,0 +1,22 @@
+C:\Users\firat\source\repos\BankManagement\BankManagement\obj\Debug\BankManagement.csprojAssemblyReference.cache
+C:\Users\firat\source\repos\BankManagement\BankManagement\obj\Debug\BankManagement.Form1.resources
+C:\Users\firat\source\repos\BankManagement\BankManagement\obj\Debug\BankManagement.Properties.Resources.resources
+C:\Users\firat\source\repos\BankManagement\BankManagement\obj\Debug\BankManagement.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\BankManagement\BankManagement\obj\Debug\BankManagement.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\BankManagement\BankManagement\bin\Debug\BankManagement.exe.config
+C:\Users\firat\source\repos\BankManagement\BankManagement\bin\Debug\BankManagement.exe
+C:\Users\firat\source\repos\BankManagement\BankManagement\bin\Debug\BankManagement.pdb
+C:\Users\firat\source\repos\BankManagement\BankManagement\obj\Debug\BankManagement.exe
+C:\Users\firat\source\repos\BankManagement\BankManagement\obj\Debug\BankManagement.pdb
+C:\Users\firat\source\repos\BankManagement\C# CODE\BankManagement\bin\Debug\BankManagement.exe.config
+C:\Users\firat\source\repos\BankManagement\C# CODE\BankManagement\bin\Debug\BankManagement.exe
+C:\Users\firat\source\repos\BankManagement\C# CODE\BankManagement\bin\Debug\BankManagement.pdb
+C:\Users\firat\source\repos\BankManagement\C# CODE\BankManagement\obj\Debug\BankManagement.csprojAssemblyReference.cache
+C:\Users\firat\source\repos\BankManagement\C# CODE\BankManagement\obj\Debug\BankManagement.Form1.resources
+C:\Users\firat\source\repos\BankManagement\C# CODE\BankManagement\obj\Debug\BankManagement.Properties.Resources.resources
+C:\Users\firat\source\repos\BankManagement\C# CODE\BankManagement\obj\Debug\BankManagement.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\BankManagement\C# CODE\BankManagement\obj\Debug\BankManagement.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\BankManagement\C# CODE\BankManagement\obj\Debug\BankManagement.exe
+C:\Users\firat\source\repos\BankManagement\C# CODE\BankManagement\obj\Debug\BankManagement.pdb
+C:\Users\firat\source\repos\BankManagement\C# CODE\BankManagement\bin\Debug\NAudio.xml
+C:\Users\firat\source\repos\BankManagement\C# CODE\BankManagement\obj\Debug\BankManagement.csproj.CopyComplete

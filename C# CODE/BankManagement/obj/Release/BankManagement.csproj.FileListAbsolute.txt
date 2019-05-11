@@ -1,0 +1,9 @@
+C:\Users\firat\source\repos\BankManagement\BankManagement\bin\Release\BankManagement.exe.config
+C:\Users\firat\source\repos\BankManagement\BankManagement\bin\Release\BankManagement.exe
+C:\Users\firat\source\repos\BankManagement\BankManagement\bin\Release\BankManagement.pdb
+C:\Users\firat\source\repos\BankManagement\BankManagement\obj\Release\BankManagement.Form1.resources
+C:\Users\firat\source\repos\BankManagement\BankManagement\obj\Release\BankManagement.Properties.Resources.resources
+C:\Users\firat\source\repos\BankManagement\BankManagement\obj\Release\BankManagement.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\BankManagement\BankManagement\obj\Release\BankManagement.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\BankManagement\BankManagement\obj\Release\BankManagement.exe
+C:\Users\firat\source\repos\BankManagement\BankManagement\obj\Release\BankManagement.pdb

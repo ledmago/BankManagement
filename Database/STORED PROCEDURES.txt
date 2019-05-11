@@ -1,0 +1,100 @@
+USE [bankManagement]
+GO
+/****** Object:  StoredProcedure [dbo].[addBank]    Script Date: 24.12.2018 17:29:50 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ALTER PROC [dbo].[addBank]
+@bank_name varchar(24),
+@bank_email varchar(24)
+as
+begin
+INSERT INTO banks (bank_name,bank_email) values(@bank_name,@bank_email)
+end
+
+
+
+USE [bankManagement]
+GO
+/****** Object:  StoredProcedure [dbo].[addCustomer]    Script Date: 24.12.2018 17:30:02 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ALTER PROC [dbo].[addCustomer]
+@cus_name varchar(24)
+as
+begin
+INSERT INTO customers (cus_name) values(@cus_name)
+end
+
+
+
+
+USE [bankManagement]
+GO
+/****** Object:  StoredProcedure [dbo].[addLoans]    Script Date: 24.12.2018 17:30:10 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ALTER PROC [dbo].[addLoans]
+@cus_id int,
+@amount int,
+@bank_id int
+as
+begin
+INSERT INTO loans(cus_id,amount,bank_id) values(@cus_id,@amount,@bank_id);
+end
+
+
+
+
+USE [bankManagement]
+GO
+/****** Object:  StoredProcedure [dbo].[deleteBank]    Script Date: 24.12.2018 17:30:21 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ALTER PROC [dbo].[deleteBank]
+@bank_id int
+as
+begin
+DELETE FROM bankManagement where bank_id = @bank_id
+end
+
+
+
+USE [bankManagement]
+GO
+/****** Object:  StoredProcedure [dbo].[deleteCustomers]    Script Date: 24.12.2018 17:30:29 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ALTER PROC [dbo].[deleteCustomers]
+@cus_id int
+as
+begin
+DELETE FROM customers WHERE cus_id  = @cus_id;
+end
+
+
+
+
+USE [bankManagement]
+GO
+/****** Object:  StoredProcedure [dbo].[deleteLoans]    Script Date: 24.12.2018 17:30:35 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ALTER PROC [dbo].[deleteLoans]
+@loan_num int
+as
+begin
+DELETE FROM loans WHERE loan_num = @loan_num;
+end
+
